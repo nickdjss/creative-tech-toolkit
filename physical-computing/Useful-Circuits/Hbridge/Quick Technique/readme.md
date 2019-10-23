@@ -18,4 +18,5 @@ This is a super minimal version of a transistor Hbridge. Removed flyback diodes 
 
 **Key Parts:**
 
-Four transistors
+2 PNP transistors - https://www.sparkfun.com/products/522
+2 NPN transistors - https://www.sparkfun.com/products/521
