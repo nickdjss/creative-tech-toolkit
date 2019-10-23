@@ -26,4 +26,4 @@ By bumping up the size of the resistor and capacitor (a lot), we can make the ca
 
 Resistor (10k)   - https://www.sparkfun.com/products/11508
 
-Capacitor (1 uF)  -   
+Capacitor (1 uF)  -  https://www.mouser.com/ProductDetail/United-Chemi-Con/EKXE401ELL1R0MHB5D?qs=sGAEpiMZZMvwFf0viD3Y3fHxNcSaiftwoPRsqGnIvX0DU8u14ChPGg%3D%3D
