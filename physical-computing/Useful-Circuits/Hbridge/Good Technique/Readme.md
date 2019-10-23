@@ -30,4 +30,4 @@ There are several off the shelf Hbridge ICs in single, double, or even quadruple
 
 Four Switches (Power transistors or Relays)
 
-Flyback Diodes (If powering inductor like a motor or solenoid)
+Flyback Diodes (If powering inductor like a motor or solenoid)  -  https://www.sparkfun.com/products/8589
