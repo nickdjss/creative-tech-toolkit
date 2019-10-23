@@ -24,6 +24,6 @@ By bumping up the size of the resistor and capacitor (a lot), we can make the ca
 
 **Key Parts:**
 
-Resistor (10k)
+Resistor (10k)   - https://www.sparkfun.com/products/11508
 
-Capacitor (10 Ohm)
+Capacitor (10 mF)  -   
