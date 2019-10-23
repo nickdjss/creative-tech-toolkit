@@ -11,7 +11,7 @@ The SN754410 (Dual Hbridge IC) is probably the most popular package because  it 
 
 **Key Parts:**
 
-SN754410
+SN754410 (quad Hbridge) - https://www.sparkfun.com/products/315
 
 
 
