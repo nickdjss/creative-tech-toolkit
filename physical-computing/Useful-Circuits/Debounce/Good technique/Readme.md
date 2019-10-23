@@ -31,4 +31,4 @@ There are lots of ways to make schmitt triggers. The two most common are using a
 
 **Key Parts:**
 
-SN74HC14N
+SN74HC14N  -    https://www.mouser.com/ProductDetail/Texas-Instruments/CD74HC14E?qs=tJ5HNKWh3OVO6AWH8evkRg%3D%3D&gclid=EAIaIQobChMI_eft38ay5QIVSNyGCh3nKAhUEAYYASABEgKuPPD_BwE
