@@ -8,6 +8,7 @@ These circuits are often used to allow DC motors to run forward or backward, wit
 
 Also useful for any application where changing the direction of current is helpful (Solenoids, bi-color Leds, etc.)
 
+Learn more: https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
 
 
 **What this circuit does:**
